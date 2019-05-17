@@ -1,0 +1,14 @@
+{
+  "name": "finalproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NaiveBayesRecipeClassifier.js",
+  "scripts": {
+    "start": "node NaiveBayesRecipeClassifier.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bayes": "0.0.7"
+  }
+}
